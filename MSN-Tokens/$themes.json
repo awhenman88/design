@@ -1,0 +1,34 @@
+[
+  {
+    "id": "d249e0cf88c55e3618d554a393b642cb4f4660d9",
+    "name": "Core",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primatives": "source",
+      "Dark Mode": "source",
+      "Mobile": "source"
+    }
+  },
+  {
+    "id": "53bdecf720926633c73896c54d8fec38fc93b398",
+    "name": "Mode",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Dark Mode": "source"
+    }
+  },
+  {
+    "id": "4e93df5f0acb39abd01c48f6b523f13f2d9c77a6",
+    "name": "Domain",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Mobile": "source"
+    }
+  },
+  {
+    "id": "4af25ae73876953ffc7c1a4bfa5142a5c4e82c6c",
+    "name": "Theme",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {}
+  }
+]

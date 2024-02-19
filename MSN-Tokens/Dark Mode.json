@@ -1,0 +1,30 @@
+{
+  "card-background": {
+    "value": "{white-5}",
+    "type": "color"
+  },
+  "UI-primary": {
+    "value": "{white}",
+    "type": "color"
+  },
+  "UI-secondary": {
+    "value": "{white-60}",
+    "type": "color"
+  },
+  "UI-tertiary": {
+    "value": "{white-30}",
+    "type": "color"
+  },
+  "divider": {
+    "value": "{white-20}",
+    "type": "color"
+  },
+  "UI-success": {
+    "value": "{vivid-green}",
+    "type": "color"
+  },
+  "UI-error": {
+    "value": "{fushion-red}",
+    "type": "color"
+  }
+}

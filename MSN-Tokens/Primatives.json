@@ -1,0 +1,487 @@
+{
+  "375": {
+    "value": "375px",
+    "type": "dimension"
+  },
+  "744": {
+    "value": "744px",
+    "type": "dimension"
+  },
+  "812": {
+    "value": "812px",
+    "type": "dimension"
+  },
+  "1024": {
+    "value": "1024px",
+    "type": "dimension"
+  },
+  "1133": {
+    "value": "1133px",
+    "type": "dimension"
+  },
+  "1440": {
+    "value": "1440px",
+    "type": "dimension"
+  },
+  "size-4": {
+    "value": "4",
+    "type": "sizing"
+  },
+  "size-8": {
+    "value": "8",
+    "type": "sizing"
+  },
+  "size-12": {
+    "value": "12",
+    "type": "sizing"
+  },
+  "size-16": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "size-20": {
+    "value": "20",
+    "type": "sizing"
+  },
+  "size-24": {
+    "value": "24",
+    "type": "sizing"
+  },
+  "size-32": {
+    "value": "32",
+    "type": "sizing"
+  },
+  "size-40": {
+    "value": "40",
+    "type": "sizing"
+  },
+  "size-48": {
+    "value": "48",
+    "type": "sizing"
+  },
+  "size-56": {
+    "value": "56",
+    "type": "sizing"
+  },
+  "size-64": {
+    "value": "64",
+    "type": "sizing"
+  },
+  "size-72": {
+    "value": "72",
+    "type": "sizing"
+  },
+  "size-80": {
+    "value": "80",
+    "type": "sizing"
+  },
+  "size-88": {
+    "value": "88",
+    "type": "sizing"
+  },
+  "size-96": {
+    "value": "96",
+    "type": "sizing"
+  },
+  "size-108": {
+    "value": "108",
+    "type": "sizing"
+  },
+  "size-120": {
+    "value": "120",
+    "type": "sizing"
+  },
+  "white": {
+    "value": "ffffff",
+    "type": "color"
+  },
+  "white-60": {
+    "value": "rgba(255,255,255,0.6)",
+    "type": "color"
+  },
+  "white-30": {
+    "value": "rgba(255,255,255,0.3)",
+    "type": "color"
+  },
+  "white-20": {
+    "value": "rgba(255,255,255,0.2)",
+    "type": "color"
+  },
+  "white-10": {
+    "value": "rgba(255,255,255,0.1)",
+    "type": "color"
+  },
+  "white-5": {
+    "value": "rgba(255,255,255,0.05)",
+    "type": "color"
+  },
+  "black": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "vivid-green": {
+    "value": "#20FF4E",
+    "type": "color"
+  },
+  "pedestrian-green": {
+    "value": "#00AB23",
+    "type": "color"
+  },
+  "fushion-red": {
+    "value": "#FF4F55",
+    "type": "color"
+  },
+  "scarlett": {
+    "value": "#B3373C",
+    "type": "color"
+  },
+  "electron": {
+    "value": "#0976C0",
+    "type": "color"
+  },
+  "pale-green": {
+    "value": "#ADFF87",
+    "type": "color"
+  },
+  "apocyan": {
+    "value": "#9DC9FC",
+    "type": "color"
+  },
+  "oink": {
+    "value": "#FFB3B3",
+    "type": "color"
+  },
+  "creme": {
+    "value": "#F9FFB3",
+    "type": "color"
+  },
+  "nectarine": {
+    "value": "#FFBF73",
+    "type": "color"
+  },
+  "plasma": {
+    "value": "#D39BFF",
+    "type": "color"
+  },
+  "grey": {
+    "value": "#363636",
+    "type": "color"
+  },
+  "forrest": {
+    "value": "#307410",
+    "type": "color"
+  },
+  "navy": {
+    "value": "#2D4C70",
+    "type": "color"
+  },
+  "polished-apple": {
+    "value": "#872E31",
+    "type": "color"
+  },
+  "chartreuse-shot": {
+    "value": "#D5D200",
+    "type": "color"
+  },
+  "bamboo-yellow": {
+    "value": "#AF854C",
+    "type": "color"
+  },
+  "royal-lavender": {
+    "value": "#7E4CAF",
+    "type": "color"
+  },
+  "padding-4": {
+    "value": "4",
+    "type": "spacing"
+  },
+  "padding-8": {
+    "value": "8",
+    "type": "spacing"
+  },
+  "padding-12": {
+    "value": "12",
+    "type": "spacing"
+  },
+  "padding-16": {
+    "value": "16",
+    "type": "spacing"
+  },
+  "padding-20": {
+    "value": "20",
+    "type": "spacing"
+  },
+  "padding-24": {
+    "value": "24",
+    "type": "spacing"
+  },
+  "padding-32": {
+    "value": "32",
+    "type": "spacing"
+  },
+  "padding-40": {
+    "value": "40",
+    "type": "spacing"
+  },
+  "padding-48": {
+    "value": "48",
+    "type": "spacing"
+  },
+  "padding-56": {
+    "value": "56",
+    "type": "spacing"
+  },
+  "padding-64": {
+    "value": "64",
+    "type": "spacing"
+  },
+  "padding-72": {
+    "value": "72",
+    "type": "spacing"
+  },
+  "padding-80": {
+    "value": "80",
+    "type": "spacing"
+  },
+  "padding-88": {
+    "value": "88",
+    "type": "spacing"
+  },
+  "padding-96": {
+    "value": "96",
+    "type": "spacing"
+  },
+  "padding-108": {
+    "value": "108",
+    "type": "spacing"
+  },
+  "padding-120": {
+    "value": "120",
+    "type": "spacing"
+  },
+  "font-size-8-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "fontSize": "8",
+      "lineHeight": "150%",
+      "fontWeight": "Bold"
+    },
+    "type": "typography"
+  },
+  "font-size-10-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "10"
+    },
+    "type": "typography"
+  },
+  "font-size-12-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "12"
+    },
+    "type": "typography"
+  },
+  "font-size-14-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "14"
+    },
+    "type": "typography"
+  },
+  "font-size-16-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "16"
+    },
+    "type": "typography"
+  },
+  "font-size-18-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "18"
+    },
+    "type": "typography"
+  },
+  "font-size-20-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "20"
+    },
+    "type": "typography"
+  },
+  "font-size-24-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "24"
+    },
+    "type": "typography"
+  },
+  "font-size-28-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "28"
+    },
+    "type": "typography"
+  },
+  "font-size-32-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "32"
+    },
+    "type": "typography"
+  },
+  "font-size-40-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "40"
+    },
+    "type": "typography"
+  },
+  "font-size-48-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "48"
+    },
+    "type": "typography"
+  },
+  "font-size-56-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "56"
+    },
+    "type": "typography"
+  },
+  "font-size-64-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "64"
+    },
+    "type": "typography"
+  },
+  "font-size-72-bold": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Bold",
+      "fontSize": "72"
+    },
+    "type": "typography"
+  },
+  "font-size-10-regular": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Regular",
+      "fontSize": "10"
+    },
+    "type": "typography"
+  },
+  "font-size-12-regular": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Regular",
+      "fontSize": "12"
+    },
+    "type": "typography"
+  },
+  "font-size-14-regular": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Regular",
+      "fontSize": "14"
+    },
+    "type": "typography"
+  },
+  "font-size-16-regular": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Regular",
+      "fontSize": "16"
+    },
+    "type": "typography"
+  },
+  "font-size-18-regular": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Regular",
+      "fontSize": "18"
+    },
+    "type": "typography"
+  },
+  "font-size-20-regular": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Regular",
+      "fontSize": "20"
+    },
+    "type": "typography"
+  },
+  "font-size-24-regular": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Regular",
+      "fontSize": "24"
+    },
+    "type": "typography"
+  },
+  "font-size-28-regular": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Regular",
+      "fontSize": "28"
+    },
+    "type": "typography"
+  },
+  "font-size-32-regular": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Regular",
+      "fontSize": "32"
+    },
+    "type": "typography"
+  },
+  "font-size-40-regular": {
+    "value": {
+      "fontFamily": "SF Pro Display",
+      "lineHeight": "150%",
+      "fontWeight": "Regular",
+      "fontSize": "40"
+    },
+    "type": "typography"
+  }
+}

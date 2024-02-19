@@ -1,0 +1,155 @@
+{
+  "size-xxs": {
+    "value": "{size-4}",
+    "type": "sizing"
+  },
+  "size-xs": {
+    "value": "{size-8}",
+    "type": "sizing"
+  },
+  "size-s": {
+    "value": "{size-12}",
+    "type": "sizing"
+  },
+  "size-m": {
+    "value": "{size-16}",
+    "type": "sizing"
+  },
+  "size-l": {
+    "value": "{size-24}",
+    "type": "sizing"
+  },
+  "size-xl": {
+    "value": "{size-32}",
+    "type": "sizing"
+  },
+  "size-xxl": {
+    "value": "{size-48}",
+    "type": "sizing"
+  },
+  "size-xxxl": {
+    "value": "{size-56}",
+    "type": "sizing"
+  },
+  "padding-none": {
+    "value": "0",
+    "type": "spacing"
+  },
+  "padding-xxs": {
+    "value": "{padding-4}",
+    "type": "spacing"
+  },
+  "padding-xs": {
+    "value": "{padding-8}",
+    "type": "spacing"
+  },
+  "padding-s": {
+    "value": "{padding-12}",
+    "type": "spacing"
+  },
+  "padding-m": {
+    "value": "{padding-16}",
+    "type": "spacing"
+  },
+  "padding-l": {
+    "value": "{padding-24}",
+    "type": "spacing"
+  },
+  "padding-xl": {
+    "value": "{padding-32}",
+    "type": "spacing"
+  },
+  "padding-xxl": {
+    "value": "{padding-48}",
+    "type": "spacing"
+  },
+  "padding-xxxl": {
+    "value": "{padding-64}",
+    "type": "spacing"
+  },
+  "body-xx-small": {
+    "value": "{font-size-10-regular}",
+    "type": "typography"
+  },
+  "body-x-small": {
+    "value": "{font-size-12-regular}",
+    "type": "typography"
+  },
+  "body-s": {
+    "value": "{font-size-14-regular}",
+    "type": "typography"
+  },
+  "body-m": {
+    "value": "{font-size-16-regular}",
+    "type": "typography"
+  },
+  "body-l": {
+    "value": "{font-size-18-regular}",
+    "type": "typography"
+  },
+  "subtitle": {
+    "value": "{font-size-24-regular}",
+    "type": "typography"
+  },
+  "headline-25": {
+    "value": "{font-size-8-bold}",
+    "type": "typography"
+  },
+  "headline-50": {
+    "value": "{font-size-10-bold}",
+    "type": "typography"
+  },
+  "headline-100": {
+    "value": "{font-size-12-bold}",
+    "type": "typography"
+  },
+  "headline-200": {
+    "value": "{font-size-14-bold}",
+    "type": "typography"
+  },
+  "headline-300": {
+    "value": "{font-size-16-bold}",
+    "type": "typography"
+  },
+  "headline-400": {
+    "value": "{font-size-18-bold}",
+    "type": "typography"
+  },
+  "headline-500": {
+    "value": "{font-size-20-bold}",
+    "type": "typography"
+  },
+  "headline-600": {
+    "value": "{font-size-24-bold}",
+    "type": "typography"
+  },
+  "headline-700": {
+    "value": "{font-size-32-bold}",
+    "type": "typography"
+  },
+  "headline-800": {
+    "value": "{font-size-40-bold}",
+    "type": "typography"
+  },
+  "headline-900": {
+    "value": "{font-size-56-bold}",
+    "type": "typography"
+  },
+  "canvas-width": {
+    "value": "{375}",
+    "type": "dimension"
+  },
+  "canvas-height": {
+    "value": "{812}",
+    "type": "dimension"
+  },
+  "card-width": {
+    "value": "351px",
+    "type": "dimension"
+  },
+  "theme-bg": {
+    "value": "https://github.com/MoneySatNav/moneysatnav_flutter/blob/develop/assets/images/eco/app_background.png",
+    "type": "asset",
+    "description": "theme BG"
+  }
+}
