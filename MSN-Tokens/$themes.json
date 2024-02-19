@@ -6,7 +6,8 @@
     "selectedTokenSets": {
       "Primatives": "source",
       "Dark Mode": "source",
-      "Mobile": "source"
+      "Mobile": "source",
+      "Hi-Tech": "source"
     }
   },
   {
@@ -36,5 +37,53 @@
       "Mobile": "source",
       "Tablet (portrait)": "source"
     }
+  },
+  {
+    "id": "308404f04a66d75c3f9149ed045dbc3f071ef533",
+    "name": "Hi-Tech",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primatives": "source",
+      "Dark Mode": "source",
+      "Mobile": "source",
+      "Hi-Tech": "source"
+    },
+    "group": "Mobile"
+  },
+  {
+    "id": "550f8d28fe7dec982abb86ee70e34a910b3b6007",
+    "name": "Hi-Tech",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primatives": "source",
+      "Dark Mode": "source",
+      "Tablet (portrait)": "source",
+      "Hi-Tech": "source"
+    },
+    "group": "Tablet"
+  },
+  {
+    "id": "0c208f669ad689929a9d9618afc481cd2c052303",
+    "name": "Miami Vice",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primatives": "source",
+      "Dark Mode": "source",
+      "Mobile": "source",
+      "Miami Vice": "source"
+    },
+    "group": "Mobile"
+  },
+  {
+    "id": "7969da0ebc032395aacc15e192c5ca5ba51cb041",
+    "name": "Miami Vice",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primatives": "source",
+      "Dark Mode": "source",
+      "Tablet (portrait)": "source",
+      "Miami Vice": "source"
+    },
+    "group": "Tablet"
   }
 ]
