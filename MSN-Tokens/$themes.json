@@ -29,6 +29,12 @@
     "id": "4af25ae73876953ffc7c1a4bfa5142a5c4e82c6c",
     "name": "Theme",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {}
+    "selectedTokenSets": {
+      "Hi-Tech": "source",
+      "Dark Mode": "source",
+      "Primatives": "source",
+      "Mobile": "source",
+      "Tablet (portrait)": "source"
+    }
   }
 ]

@@ -146,10 +146,5 @@
   "card-width": {
     "value": "351px",
     "type": "dimension"
-  },
-  "theme-bg": {
-    "value": "https://github.com/MoneySatNav/moneysatnav_flutter/blob/develop/assets/images/eco/app_background.png",
-    "type": "asset",
-    "description": "theme BG"
   }
 }
