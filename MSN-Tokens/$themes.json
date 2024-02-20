@@ -7,7 +7,8 @@
       "Primatives": "source",
       "Dark Mode": "source",
       "Mobile": "source",
-      "Hi-Tech": "source"
+      "Hi-Tech": "source",
+      "Spaceship": "disabled"
     }
   },
   {
@@ -15,7 +16,8 @@
     "name": "Mode",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Dark Mode": "source"
+      "Dark Mode": "source",
+      "Spaceship": "disabled"
     }
   },
   {
@@ -23,7 +25,8 @@
     "name": "Domain",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Mobile": "source"
+      "Mobile": "source",
+      "Spaceship": "disabled"
     }
   },
   {
@@ -35,7 +38,8 @@
       "Dark Mode": "source",
       "Primatives": "source",
       "Mobile": "source",
-      "Tablet (portrait)": "source"
+      "Tablet (portrait)": "source",
+      "Spaceship": "disabled"
     }
   },
   {
@@ -46,7 +50,8 @@
       "Primatives": "source",
       "Dark Mode": "source",
       "Mobile": "source",
-      "Hi-Tech": "source"
+      "Hi-Tech": "source",
+      "Spaceship": "disabled"
     },
     "group": "Mobile"
   },
@@ -58,7 +63,8 @@
       "Primatives": "source",
       "Dark Mode": "source",
       "Tablet (portrait)": "source",
-      "Hi-Tech": "source"
+      "Hi-Tech": "source",
+      "Spaceship": "disabled"
     },
     "group": "Tablet"
   },
@@ -70,7 +76,8 @@
       "Primatives": "source",
       "Dark Mode": "source",
       "Mobile": "source",
-      "Miami Vice": "source"
+      "Miami Vice": "source",
+      "Spaceship": "disabled"
     },
     "group": "Mobile"
   },
@@ -82,7 +89,8 @@
       "Primatives": "source",
       "Dark Mode": "source",
       "Tablet (portrait)": "source",
-      "Miami Vice": "source"
+      "Miami Vice": "source",
+      "Spaceship": "disabled"
     },
     "group": "Tablet"
   }
