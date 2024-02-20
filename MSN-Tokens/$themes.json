@@ -7,8 +7,7 @@
       "Primatives": "source",
       "Dark Mode": "source",
       "Mobile": "source",
-      "Hi-Tech": "source",
-      "Football": "disabled"
+      "Hi-Tech": "source"
     }
   },
   {
@@ -16,8 +15,7 @@
     "name": "Mode",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Dark Mode": "source",
-      "Football": "disabled"
+      "Dark Mode": "source"
     }
   },
   {
@@ -25,8 +23,7 @@
     "name": "Domain",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Mobile": "source",
-      "Football": "disabled"
+      "Mobile": "source"
     }
   },
   {
@@ -38,8 +35,7 @@
       "Dark Mode": "source",
       "Primatives": "source",
       "Mobile": "source",
-      "Tablet (portrait)": "source",
-      "Football": "disabled"
+      "Tablet (portrait)": "source"
     }
   },
   {
@@ -50,8 +46,7 @@
       "Primatives": "source",
       "Dark Mode": "source",
       "Mobile": "source",
-      "Hi-Tech": "source",
-      "Football": "disabled"
+      "Hi-Tech": "source"
     },
     "group": "Mobile"
   },
@@ -63,8 +58,7 @@
       "Primatives": "source",
       "Dark Mode": "source",
       "Tablet (portrait)": "source",
-      "Hi-Tech": "source",
-      "Football": "disabled"
+      "Hi-Tech": "source"
     },
     "group": "Tablet"
   },
@@ -76,8 +70,7 @@
       "Primatives": "source",
       "Dark Mode": "source",
       "Mobile": "source",
-      "Miami Vice": "source",
-      "Football": "disabled"
+      "Miami Vice": "source"
     },
     "group": "Mobile"
   },
@@ -89,8 +82,55 @@
       "Primatives": "source",
       "Dark Mode": "source",
       "Tablet (portrait)": "source",
-      "Miami Vice": "source",
-      "Football": "disabled"
+      "Miami Vice": "source"
+    },
+    "group": "Tablet"
+  },
+  {
+    "id": "be1c92a0e8396263f474e5dac43134194d75999d",
+    "name": "spaceship",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primatives": "source",
+      "Dark Mode": "source",
+      "Mobile": "source",
+      "Spaceship": "source"
+    },
+    "group": "Mobile"
+  },
+  {
+    "id": "a801199d897e4ad032b49a0018ebde05eb7db585",
+    "name": "Spaceship",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primatives": "source",
+      "Dark Mode": "source",
+      "Mobile": "source",
+      "Spaceship": "source"
+    },
+    "group": "Tablet"
+  },
+  {
+    "id": "152a84f12f8630bac1323993628403de6af59d60",
+    "name": "Football",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primatives": "source",
+      "Dark Mode": "source",
+      "Mobile": "source",
+      "Football": "source"
+    },
+    "group": "Mobile"
+  },
+  {
+    "id": "6ef2de34528cc74d7312018bf3f1c482fc2a1dc3",
+    "name": "Football",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primatives": "source",
+      "Dark Mode": "source",
+      "Mobile": "source",
+      "Football": "source"
     },
     "group": "Tablet"
   }
