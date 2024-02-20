@@ -158,5 +158,29 @@
   "size-data-row-large": {
     "value": "{size-80}",
     "type": "sizing"
+  },
+  "radius-none": {
+    "value": "0",
+    "type": "borderRadius"
+  },
+  "radius-s": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "radius-m": {
+    "value": "16",
+    "type": "borderRadius"
+  },
+  "radius-l": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "radius-xl": {
+    "value": "32",
+    "type": "borderRadius"
+  },
+  "radius-circle": {
+    "value": "1000",
+    "type": "borderRadius"
   }
 }
