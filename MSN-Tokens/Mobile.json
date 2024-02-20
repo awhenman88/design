@@ -146,5 +146,17 @@
   "card-width": {
     "value": "351px",
     "type": "dimension"
+  },
+  "size-data-row-small": {
+    "value": "{size-56}",
+    "type": "sizing"
+  },
+  "size-data-row-medium": {
+    "value": "{size-64}",
+    "type": "sizing"
+  },
+  "size-data-row-large": {
+    "value": "{size-80}",
+    "type": "sizing"
   }
 }
