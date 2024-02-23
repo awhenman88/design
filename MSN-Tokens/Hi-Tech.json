@@ -3,68 +3,78 @@
     "value": "https://raw.githubusercontent.com/awhenman88/design/main/hi-tech.png",
     "type": "asset"
   },
-  "primary-1": {
-    "value": "#00F1FF",
-    "type": "color"
+  "primary": {
+    "1": {
+      "value": "#00F1FF",
+      "type": "color"
+    },
+    "2": {
+      "value": "#00D9E6",
+      "type": "color"
+    },
+    "3": {
+      "value": "#00C1CC",
+      "type": "color"
+    },
+    "4": {
+      "value": "#00A9B3",
+      "type": "color"
+    },
+    "5": {
+      "value": "#009199",
+      "type": "color"
+    },
+    "6": {
+      "value": "#01676c",
+      "type": "color"
+    }
   },
-  "primary-2": {
-    "value": "#00D9E6",
-    "type": "color"
+  "brand": {
+    "theme-accent": {
+      "value": "#00F1FF",
+      "type": "color"
+    }
   },
-  "primary-3": {
-    "value": "#00C1CC",
-    "type": "color"
+  "secondary": {
+    "1": {
+      "value": "#829CF6",
+      "type": "color"
+    },
+    "2": {
+      "value": "#758CDD",
+      "type": "color"
+    },
+    "3": {
+      "value": "#687DC5",
+      "type": "color"
+    },
+    "4": {
+      "value": "#5B6DAC",
+      "type": "color"
+    },
+    "5": {
+      "value": "#4E5E94",
+      "type": "color"
+    },
+    "6": {
+      "value": "#414E7B",
+      "type": "color"
+    }
   },
-  "primary-4": {
-    "value": "#00A9B3",
-    "type": "color"
+  "gradient": {
+    "1": {
+      "value": "linear-gradient (90deg, {primary.1} 0%, {primary.6} 100%)",
+      "type": "color"
+    },
+    "2": {
+      "value": "linear-gradient (90deg, {primary.6} 0%, {primary.1} 100%)",
+      "type": "color"
+    }
   },
-  "primary-5": {
-    "value": "#009199",
-    "type": "color"
-  },
-  "primary-6": {
-    "value": "#01676c",
-    "type": "color"
-  },
-  "primary-brand": {
-    "value": "#00F1FF",
-    "type": "color"
-  },
-  "secondary-1": {
-    "value": "#829CF6",
-    "type": "color"
-  },
-  "secondary-2": {
-    "value": "#758CDD",
-    "type": "color"
-  },
-  "secondary-3": {
-    "value": "#687DC5",
-    "type": "color"
-  },
-  "secondary-4": {
-    "value": "#5B6DAC",
-    "type": "color"
-  },
-  "secondary-5": {
-    "value": "#4E5E94",
-    "type": "color"
-  },
-  "secondary-6": {
-    "value": "#414E7B",
-    "type": "color"
-  },
-  "gradient-1": {
-    "value": "linear-gradient (90deg, {primary-1} 0%, {primary-6} 100%)",
-    "type": "color"
-  },
-  "gradient-2": {
-    "value": "linear-gradient (90deg, {primary-6} 0%, {primary-1} 100%)",
-    "type": "color"
-  },
-  "primary-button-enabled": {
-    "value": "linear-gradient (90deg, {primary-6} 0%, {primary-1} 100%)",
-    "type": "color"
+  "button": {
+    "primary-enabled": {
+      "value": "linear-gradient (90deg, {primary.6} 0%, {primary.1} 100%)",
+      "type": "color"
+    }
   }
 }
