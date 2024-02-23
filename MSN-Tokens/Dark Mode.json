@@ -15,93 +15,103 @@
     "value": "{white-10%}",
     "type": "color"
   },
-  "text-primary": {
-    "value": "{white}",
-    "type": "color"
+  "text": {
+    "primary": {
+      "value": "{white}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{white-60%}",
+      "type": "color"
+    },
+    "placeholder": {
+      "value": "{white-30%}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{fushion-red}",
+      "type": "color"
+    },
+    "success": {
+      "value": "{vivid-green}",
+      "type": "color"
+    }
   },
-  "text-secondary": {
-    "value": "{white-60%}",
-    "type": "color"
+  "icon": {
+    "primary": {
+      "value": "{white}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{white-60%}",
+      "type": "color"
+    },
+    "placeholder": {
+      "value": "{white-30%}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{fushion-red}",
+      "type": "color"
+    },
+    "success": {
+      "value": "{vivid-green}",
+      "type": "color"
+    }
   },
-  "text-placeholder": {
-    "value": "{white-30%}",
-    "type": "color"
-  },
-  "text-error": {
-    "value": "{fushion-red}",
-    "type": "color"
-  },
-  "text-success": {
-    "value": "{vivid-green}",
-    "type": "color"
-  },
-  "icon-primary": {
-    "value": "{white}",
-    "type": "color"
-  },
-  "icon-secondary": {
-    "value": "{white-60%}",
-    "type": "color"
-  },
-  "icon-placeholder": {
-    "value": "{white-30%}",
-    "type": "color"
-  },
-  "icon-error": {
-    "value": "{fushion-red}",
-    "type": "color"
-  },
-  "icon-success": {
-    "value": "{vivid-green}",
-    "type": "color"
-  },
-  "button-secondary-enabled": {
-    "value": "#",
-    "type": "color"
-  },
-  "button-disabled": {
-    "value": "{white-10%}",
-    "type": "color"
-  },
-  "button-error-enabled": {
-    "value": "#",
-    "type": "color"
-  },
-  "button-success-enabled": {
-    "value": "#",
-    "type": "color"
+  "button": {
+    "secondary-enabled": {
+      "value": "#",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{white-10%}",
+      "type": "color"
+    },
+    "error-enabled": {
+      "value": "#",
+      "type": "color"
+    },
+    "success": {
+      "value": "#",
+      "type": "color"
+    }
   },
   "button-fab-enabled": {
     "value": "#",
     "type": "color"
   },
-  "stroke-enabled": {
-    "value": "#",
-    "type": "color"
+  "stroke": {
+    "enabled": {
+      "value": "#",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#",
+      "type": "color"
+    },
+    "error": {
+      "value": "#",
+      "type": "color"
+    },
+    "success": {
+      "value": "#",
+      "type": "color"
+    }
   },
-  "stroke-disabled": {
-    "value": "#",
-    "type": "color"
-  },
-  "stroke-error": {
-    "value": "#",
-    "type": "color"
-  },
-  "stroke-success": {
-    "value": "#",
-    "type": "color"
-  },
-  "slider-base": {
-    "value": "#",
-    "type": "color"
-  },
-  "slider-fill": {
-    "value": "#",
-    "type": "color"
-  },
-  "slider-thumb": {
-    "value": "#",
-    "type": "color"
+  "slider": {
+    "base": {
+      "value": "#",
+      "type": "color"
+    },
+    "fill": {
+      "value": "#",
+      "type": "color"
+    },
+    "thumb": {
+      "value": "#",
+      "type": "color"
+    }
   },
   "loader-base": {
     "value": "#",
@@ -111,33 +121,37 @@
     "value": "#",
     "type": "color"
   },
-  "road-tile": {
-    "value": "#",
-    "type": "color"
+  "road": {
+    "tile": {
+      "value": "#",
+      "type": "color"
+    },
+    "current-path": {
+      "value": "#",
+      "type": "color"
+    },
+    "helipad": {
+      "value": "#",
+      "type": "color"
+    }
   },
-  "road-current": {
-    "value": "#",
-    "type": "color"
-  },
-  "road-helipad": {
-    "value": "#",
-    "type": "color"
-  },
-  "chart-line-current": {
-    "value": "#",
-    "type": "color"
-  },
-  "chart-fade-current": {
-    "value": "#",
-    "type": "color"
-  },
-  "chart-axis": {
-    "value": "#",
-    "type": "color"
-  },
-  "chart-slider": {
-    "value": "#",
-    "type": "color"
+  "chart": {
+    "line-current": {
+      "value": "#",
+      "type": "color"
+    },
+    "fade-current": {
+      "value": "#",
+      "type": "color"
+    },
+    "axis": {
+      "value": "#",
+      "type": "color"
+    },
+    "slider": {
+      "value": "#",
+      "type": "color"
+    }
   },
   "data-row-background": {
     "value": "#",
