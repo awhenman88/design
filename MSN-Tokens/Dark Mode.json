@@ -1,19 +1,21 @@
 {
-  "canvas-background": {
-    "value": "{black}",
-    "type": "color"
+  "background": {
+    "screen-bg": {
+      "value": "{black}",
+      "type": "color"
+    }
   },
-  "ios-controls": {
-    "value": "{white}",
-    "type": "color"
+  "ios": {
+    "system-ui": {
+      "value": "{white}",
+      "type": "color"
+    }
   },
-  "journey-icon-base": {
-    "value": "{electron}",
-    "type": "color"
-  },
-  "card-base": {
-    "value": "{white-10%}",
-    "type": "color"
+  "card": {
+    "base": {
+      "value": "{white-10%}",
+      "type": "color"
+    }
   },
   "text": {
     "primary": {
@@ -75,11 +77,11 @@
     "success": {
       "value": "#",
       "type": "color"
+    },
+    "fab-enabled": {
+      "value": "#",
+      "type": "color"
     }
-  },
-  "button-fab-enabled": {
-    "value": "#",
-    "type": "color"
   },
   "stroke": {
     "enabled": {
@@ -113,13 +115,17 @@
       "type": "color"
     }
   },
-  "loader-base": {
-    "value": "#",
-    "type": "color"
+  "loader": {
+    "base": {
+      "value": "#",
+      "type": "color"
+    }
   },
-  "pill-negative": {
-    "value": "#",
-    "type": "color"
+  "pill": {
+    "negative": {
+      "value": "#",
+      "type": "color"
+    }
   },
   "road": {
     "tile": {
@@ -153,16 +159,22 @@
       "type": "color"
     }
   },
-  "data-row-background": {
-    "value": "#",
-    "type": "color"
+  "data-row": {
+    "background": {
+      "value": "#",
+      "type": "color"
+    }
   },
-  "dropdown-base": {
-    "value": "#",
-    "type": "color"
+  "input": {
+    "base": {
+      "value": "#",
+      "type": "color"
+    }
   },
   "divider": {
-    "value": "#",
-    "type": "color"
+    "base": {
+      "value": "#",
+      "type": "color"
+    }
   }
 }
