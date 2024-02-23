@@ -62,5 +62,9 @@
   "gradient-2": {
     "value": "linear-gradient (90deg, {primary-6} 0%, {primary-1} 100%)",
     "type": "color"
+  },
+  "primary-button-enabled": {
+    "value": "linear-gradient (90deg, {primary-6} 0%, {primary-1} 100%)",
+    "type": "color"
   }
 }

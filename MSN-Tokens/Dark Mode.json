@@ -59,8 +59,8 @@
     "value": "#",
     "type": "color"
   },
-  "button-secondary-disabled": {
-    "value": "#",
+  "button-disabled": {
+    "value": "{white-10%}",
     "type": "color"
   },
   "button-error-enabled": {

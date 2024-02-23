@@ -182,5 +182,9 @@
   "radius-circle": {
     "value": "1000",
     "type": "borderRadius"
+  },
+  "size-button-small": {
+    "value": "{size-72}",
+    "type": "sizing"
   }
 }
