@@ -1,36 +1,5 @@
 [
   {
-    "id": "d249e0cf88c55e3618d554a393b642cb4f4660d9",
-    "name": "Core",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Primatives": "source",
-      "Dark Mode": "source",
-      "Mobile": "source",
-      "Hi-Tech": "source"
-    }
-  },
-  {
-    "id": "53bdecf720926633c73896c54d8fec38fc93b398",
-    "name": "Mode",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Dark Mode": "source"
-    }
-  },
-  {
-    "id": "4af25ae73876953ffc7c1a4bfa5142a5c4e82c6c",
-    "name": "Theme",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Hi-Tech": "source",
-      "Dark Mode": "source",
-      "Primatives": "source",
-      "Mobile": "source",
-      "Tablet (portrait)": "source"
-    }
-  },
-  {
     "id": "308404f04a66d75c3f9149ed045dbc3f071ef533",
     "name": "Hi-Tech",
     "$figmaStyleReferences": {},
@@ -51,78 +20,6 @@
       "Dark Mode": "source",
       "Tablet (portrait)": "source",
       "Hi-Tech": "source"
-    },
-    "group": "Tablet"
-  },
-  {
-    "id": "0c208f669ad689929a9d9618afc481cd2c052303",
-    "name": "Miami Vice",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Primatives": "source",
-      "Dark Mode": "source",
-      "Mobile": "source",
-      "Miami Vice": "source"
-    },
-    "group": "Mobile"
-  },
-  {
-    "id": "7969da0ebc032395aacc15e192c5ca5ba51cb041",
-    "name": "Miami Vice",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Primatives": "source",
-      "Dark Mode": "source",
-      "Tablet (portrait)": "source",
-      "Miami Vice": "source"
-    },
-    "group": "Tablet"
-  },
-  {
-    "id": "be1c92a0e8396263f474e5dac43134194d75999d",
-    "name": "spaceship",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Primatives": "source",
-      "Dark Mode": "source",
-      "Mobile": "source",
-      "Spaceship": "source"
-    },
-    "group": "Mobile"
-  },
-  {
-    "id": "a801199d897e4ad032b49a0018ebde05eb7db585",
-    "name": "Spaceship",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Primatives": "source",
-      "Dark Mode": "source",
-      "Mobile": "source",
-      "Spaceship": "source"
-    },
-    "group": "Tablet"
-  },
-  {
-    "id": "152a84f12f8630bac1323993628403de6af59d60",
-    "name": "Football",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Primatives": "source",
-      "Dark Mode": "source",
-      "Mobile": "source",
-      "Football": "source"
-    },
-    "group": "Mobile"
-  },
-  {
-    "id": "6ef2de34528cc74d7312018bf3f1c482fc2a1dc3",
-    "name": "Football",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Primatives": "source",
-      "Dark Mode": "source",
-      "Mobile": "source",
-      "Football": "source"
     },
     "group": "Tablet"
   }

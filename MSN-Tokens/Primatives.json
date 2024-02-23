@@ -92,27 +92,23 @@
     "type": "sizing"
   },
   "white": {
-    "value": "ffffff",
+    "value": "#fff",
     "type": "color"
   },
-  "white-60": {
+  "white-60%": {
     "value": "rgba(255,255,255,0.6)",
     "type": "color"
   },
-  "white-30": {
+  "white-30%": {
     "value": "rgba(255,255,255,0.3)",
     "type": "color"
   },
-  "white-20": {
+  "white-20%": {
     "value": "rgba(255,255,255,0.2)",
     "type": "color"
   },
-  "white-10": {
+  "white-10%": {
     "value": "rgba(255,255,255,0.1)",
-    "type": "color"
-  },
-  "white-5": {
-    "value": "rgba(255,255,255,0.05)",
     "type": "color"
   },
   "black": {
@@ -483,5 +479,25 @@
       "fontSize": "40"
     },
     "type": "typography"
+  },
+  "60%": {
+    "value": "0.6",
+    "type": "opacity"
+  },
+  "30%": {
+    "value": "0.3",
+    "type": "opacity"
+  },
+  "20%": {
+    "value": "0.2",
+    "type": "opacity"
+  },
+  "10%": {
+    "value": "0.1",
+    "type": "opacity"
+  },
+  "5%": {
+    "value": "0.05",
+    "type": "opacity"
   }
 }
