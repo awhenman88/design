@@ -63,7 +63,7 @@
   },
   "button": {
     "secondary-enabled": {
-      "value": "#",
+      "value": "{white-20%}",
       "type": "color"
     },
     "disabled": {
@@ -85,11 +85,11 @@
   },
   "stroke": {
     "enabled": {
-      "value": "#",
+      "value": "{white-30%}",
       "type": "color"
     },
     "disabled": {
-      "value": "#",
+      "value": "{white-10%}",
       "type": "color"
     },
     "error": {
