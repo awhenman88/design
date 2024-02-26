@@ -1,26 +1,39 @@
 [
   {
-    "id": "308404f04a66d75c3f9149ed045dbc3f071ef533",
-    "name": "Hi-Tech",
+    "id": "027e1c5495ec2739538803f87c2762390de98c81",
+    "name": "Primatives",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Primatives": "source",
-      "Dark Mode": "source",
-      "Mobile": "source",
-      "Hi-Tech": "source"
+      "Primatives": "source"
     },
-    "group": "Mobile"
+    "group": "Core"
   },
   {
-    "id": "550f8d28fe7dec982abb86ee70e34a910b3b6007",
+    "id": "6533a40c1c6cfea63d841f1f6bb02bbf50373dae",
+    "name": "Mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Mobile": "source"
+    },
+    "group": "Device"
+  },
+  {
+    "id": "0d029a0a8f93b61138c0377aece2a0cd14de1644",
+    "name": "Tablet",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Tablet (portrait)": "source"
+    },
+    "group": "Device"
+  },
+  {
+    "id": "8f9b054d2d38add5795471e03ff2a6a6e665d3a5",
     "name": "Hi-Tech",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Primatives": "source",
-      "Dark Mode": "source",
-      "Tablet (portrait)": "source",
-      "Hi-Tech": "source"
+      "Hi-Tech": "source",
+      "Dark Mode": "source"
     },
-    "group": "Tablet"
+    "group": "Theme"
   }
 ]
