@@ -81,10 +81,6 @@
     "fab-enabled": {
       "value": "#",
       "type": "color"
-    },
-    "primary-enabled": {
-      "value": "linear-gradient(90deg, #01676c 0%, #00f1ff 100%)",
-      "type": "color"
     }
   },
   "stroke": {
